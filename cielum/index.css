@@ -1,0 +1,39 @@
+/* Estilos para el contenedor */
+.container-fluid {
+    background-color: #6fa6f7;
+    padding: 20px;
+    background-origin: padding-box;
+    
+  }
+  
+  /* Estilos para los botones */
+  .btn-light {
+    background-color: #b1c4f7;
+    border: 1px solid #579dec;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  /* Estilos para la vista previa del usuario */
+  h2 {
+    color: #333;
+    border: 1px solid rgb(18, 19, 19);
+  }
+  
+  /* Estilos para los campos de entrada de texto */
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #121213;
+    border-radius: 5px;
+  }
+  
+  /* Estilos para los checkboxes */
+  .form-check-input {
+    margin-right: 5px;
+    border-radius: 20px solid #121213;
+    align-content: center;
+    
+  }
+  
